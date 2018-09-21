@@ -4,3 +4,8 @@ C
 c
 cc
 ccc
+cc
+c
+C
+CC
+CCC
